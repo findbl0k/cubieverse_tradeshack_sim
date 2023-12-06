@@ -21,7 +21,7 @@ The Cubieverse Trade Shack Simulator is a tool designed to simulate resource dro
 
 ## Notes
 
-- **Market Fees:** The simulator does not account for market fees. Subtract these manually for a more accurate estimate.
+- **Market Fees:** The simulator does not account for the 10% market fees. Subtract these manually for a more accurate estimate.
 - **Market Fluctuations:** The values in `resources.csv` are estimates. Please update them as the market changes and consider submitting a pull request with updated values.
 - **Simulation Variance:** While 10 million simulations provide a solid baseline, there is noticeable variance in the expected trade shack value per visit (especially with chromatic cubies). The output may vary based on the number of visits and luck.
 - **Level Assumption:** The current version assumes a level 10 cubie has a 2% chance of a drop. This will hopefully be updated as more accurate data becomes available. If you have a lower level cubie, expect a lower return.
