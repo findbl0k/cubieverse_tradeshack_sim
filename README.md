@@ -5,7 +5,7 @@ The Cubieverse Trade Shack Simulator is a tool designed to simulate resource dro
 
 ## Features
 - **Resource Drop Simulation:** Simulates the likelihood of resource drops from cubies staffing the trade shack.
-- **Market Value Integration:** Incorporates current market values to estimate the potential return from each cubie.
+- **Market Value Integration:** Incorporates market values (as of December 2023) to estimate the potential return from each cubie.
 - **Extensive Simulation:** Conducts simulations over 10 million iterations for accurate estimations.
 - **Customizability:** Allows users to update resource values as the market fluctuates.
 
